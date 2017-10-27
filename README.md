@@ -1,7 +1,7 @@
 # Sustainable Urban Planning
 
 ## How to Run
-- change workspace into "ENG6Proj2/Submission"
+- select project workspace
 - type "GUI" in Matlab command window
 - click help button on bottom right corner for further instructions
 
